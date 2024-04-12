@@ -1,0 +1,22 @@
+component based framework:-
+compo mns sml parts of web apliction
+
+reusable compnt
+
+crt onces and use many times
+
+react base on oops.
+
+class and object:-
+polymorphism:-
+inhertiamce:-
+constructor:-
+class A
+{
+cons()
+{
+this.a
+}
+
+super:-keyword to access proprt of base class
+super():-used to invk bs class constrct in derive classs
